@@ -11,4 +11,5 @@ I learned about this REPL while watching one of [Samer Buna's](https://twitter.c
 ---
 ### Examples in this repo - look under the `examples` folder
 
-- Github card component - a simple react app that lets you render a github card component by just entering the github username
+- **Github card component** - a simple react app that lets you render a github card component by just entering the github username
+- **Play Nine Game** - a simple react game app
